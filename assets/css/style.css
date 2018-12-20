@@ -121,6 +121,12 @@ h3, h2 {
   margin: 0 0 40px;
   background: #ffffff;
   border: 1px solid #dddddd;
+  
+}
+
+#contact {
+  position: relative;
+  text-align: center;
 }
 
 /* portfolio page */
