@@ -132,6 +132,7 @@ h3, h2 {
 /* portfolio page */
 
 .work {
+  align-content: center;
   position: relative;
   float: left;
   width: 274px;
